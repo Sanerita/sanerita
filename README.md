@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanerita" alt="sanerita" /></a> </p>
 
-- 🔭 I’m currently working on [my React Portfolio](https://github.com/Sanerita/React-Portfolio)
+- 🔭 I’m currently working on [a MERN Stack chat application](https://github.com/Sanerita/Chat-Application)
 
 - 🌱 I’m currently learning **React.js, Firebase and Express.js**
 
 - 👨‍💻 All of my projects are available at [https://sanelisiwes.netlify.app/](https://sanelisiwes.netlify.app/)
 
-- 💬 Ask me about **HTML,CSS and JAVA**
+- 💬 Ask me about **HTML,CSS, REACT and JAVA**
 
 - 📫 How to reach me **sanelisiwe.sileku@gmail.com**
 
