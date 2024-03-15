@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning ** Express.js and MongoDB**
 
-- 👨‍💻 All of my projects are available at [https://sanelisiwes.netlify.app/](https://sanelisiwes.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://contactformdata-92042.web.app/](https://contactformdata-92042.web.app/)
 
-- 💬 Ask me about **HTML,CSS, REACT and JAVA**
+- 💬 Ask me about **HTML,CSS, REACT, Node.js and SQL**
 
 - 📫 How to reach me **sanelisiwe.sileku@gmail.com**
 
-- 📄 Know about my experiences [https://mail.google.com/mail/u/0/?tab=rm&ogbl#search/cv/QgrcJHsbgZwzjPqzDNDGzzWxLbcCNfDMScb?projector=1&messagePartId=0.2](https://mail.google.com/mail/u/0/?tab=rm&ogbl#search/cv/QgrcJHsbgZwzjPqzDNDGzzWxLbcCNfDMScb?projector=1&messagePartId=0.2)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1AcbRqagEk64yib8WW91UKjZr4yStgn6n/view?usp=sharing](https://drive.google.com/file/d/1AcbRqagEk64yib8WW91UKjZr4yStgn6n/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
