@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [a MERN Stack chat application](https://github.com/Sanerita/Chat-Application)
 
-- 🌱 I’m currently learning **React.js, Firebase and Express.js**
+- 🌱 I’m currently learning ** Express.js and MongoDB**
 
 - 👨‍💻 All of my projects are available at [https://sanelisiwes.netlify.app/](https://sanelisiwes.netlify.app/)
 
