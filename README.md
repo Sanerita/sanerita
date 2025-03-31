@@ -1,21 +1,21 @@
 <h1 align="center">Hi 👋, I'm Sanelisiwe Sileku</h1>
-<h3 align="center">A passionate frontend developer from Cape Town South Africa</h3>
+<h3 align="center">A passionate Full Stack developer from Cape Town South Africa</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanerita&label=Profile%20views&color=0e75b6&style=flat" alt="sanerita" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanerita" alt="sanerita" /></a> </p>
 
-- 🔭 I’m currently working on [a MERN Stack chat application](https://github.com/Sanerita/Chat-Application)
+- 🔭 I’m currently working on [My Business Wensite](https://github.com/Sanerita/Elpeap-Group-)
 
-- 🌱 I’m currently learning ** Express.js and MongoDB**
+- 🌱 I’m currently learning ** Go**
 
 - 👨‍💻 All of my projects are available at [https://contactformdata-92042.web.app/](https://contactformdata-92042.web.app/)
 
-- 💬 Ask me about **HTML,CSS, REACT, Node.js and SQL**
+- 💬 Ask me about **JavaScript,CSS, REACT, Node.js and SQL**
 
 - 📫 How to reach me **sanelisiwe.sileku@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1AcbRqagEk64yib8WW91UKjZr4yStgn6n/view?usp=sharing](https://drive.google.com/file/d/1AcbRqagEk64yib8WW91UKjZr4yStgn6n/view?usp=sharing)
+- 📄 Know about my experiences [)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
